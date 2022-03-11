@@ -14,7 +14,8 @@ class MyApp extends StatelessWidget {
       appBar: AppBar(
         title: const Text("My First App"),
       ),
-      body: const Text("This is my first flutter mobile application"),
+      body:
+          const Text("This is my first flutter mobile application on flutter"),
     ));
   }
 }
